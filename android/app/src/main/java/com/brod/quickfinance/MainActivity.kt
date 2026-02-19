@@ -1,4 +1,4 @@
-package com.quickfinance
+package com.brod.quickfinance
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

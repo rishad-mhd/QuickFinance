@@ -1,4 +1,4 @@
-package com.quickfinance
+package com.brod.quickfinance
 
 import android.app.Application
 import com.facebook.react.PackageList
